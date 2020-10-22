@@ -1,0 +1,6 @@
+# Exclusion of source code zip files
+/Source Code.*
+
+# Exclude directories from build process
+/beets_playlistconverter.egg-info
+/build
