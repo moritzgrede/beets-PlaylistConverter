@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+beets_playlistconverter.egg-info/PKG-INFO
+beets_playlistconverter.egg-info/SOURCES.txt
+beets_playlistconverter.egg-info/dependency_links.txt
+beets_playlistconverter.egg-info/top_level.txt
+beetsplug/__init__.py
+beetsplug/playlistconverter.py
