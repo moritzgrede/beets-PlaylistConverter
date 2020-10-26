@@ -10,13 +10,14 @@ import json
 import pathlib
 import fnmatch
 import re
+import builtins
 from copy import copy
 from optparse import OptionParser, Option, OptionValueError
 from beets import ui
 from beets.plugins import BeetsPlugin
 
 PLUGIN_STAGE = u'r'
-PLUGIN_VERSION = u'1.0.0'
+PLUGIN_VERSION = u'1.0.1'
 
 #
 # OPTION PARSER TYPE CLASS
