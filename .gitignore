@@ -4,3 +4,4 @@
 # Exclude directories from build process
 /beets_playlistconverter.egg-info
 /build
+/dist
